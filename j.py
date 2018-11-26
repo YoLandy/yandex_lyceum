@@ -1,2 +1,2 @@
-print("I'm new version of you")
+print("I'm github version of you")
 print("Timer is the best")
